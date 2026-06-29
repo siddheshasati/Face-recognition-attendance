@@ -27,13 +27,7 @@ This project is a face recognition attendance system that utilizes computer visi
 ```
 
 
-## 🚀 About Me
-I'm  Machine Learning and Data Science Student...
 
-https://github.com/siddheshasati
-https://www.linkedin.com/in/siddhesh-asati
-https://www.instagram.com/ezterminator/
-https://x.com/SiddheshAsati
 
 
 
